@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/mywebalessandro/static/css/main.7280045e.css",
+    "main.js": "/mywebalessandro/static/js/main.e948c559.js",
+    "static/js/787.985e081d.chunk.js": "/mywebalessandro/static/js/787.985e081d.chunk.js",
+    "static/media/his3.jpg": "/mywebalessandro/static/media/his3.e200e9bdf5b68ccb2970.jpg",
+    "static/media/his12.jpg": "/mywebalessandro/static/media/his12.2393eed4ef73187f8d78.jpg",
+    "static/media/his9.jpg": "/mywebalessandro/static/media/his9.84feeb791e4f212c3b8b.jpg",
+    "static/media/arbol5.jpg": "/mywebalessandro/static/media/arbol5.ac7aa51d94f666c5fe4f.jpg",
+    "static/media/arbol7.jpg": "/mywebalessandro/static/media/arbol7.b59657a018e05fec2fb1.jpg",
+    "static/media/arbol6.jpg": "/mywebalessandro/static/media/arbol6.fb4469f5fc136b26c73a.jpg",
+    "static/media/arbol4.jpg": "/mywebalessandro/static/media/arbol4.b05cb80fb414b85dfbd3.jpg",
+    "static/media/arbol8.jpg": "/mywebalessandro/static/media/arbol8.416195072546888d3b6f.jpg",
+    "static/media/his8.jpg": "/mywebalessandro/static/media/his8.56d215fea6e03b2b69ab.jpg",
+    "static/media/his11.jpeg": "/mywebalessandro/static/media/his11.cee63e6c78a90c9225b0.jpeg",
+    "static/media/his7.jpg": "/mywebalessandro/static/media/his7.47240cb761e546855fd4.jpg",
+    "static/media/pavo.jpg": "/mywebalessandro/static/media/pavo.8723f09ecf67b9d4fcd0.jpg",
+    "static/media/his2.jpg": "/mywebalessandro/static/media/his2.72dc4411f2015e515536.jpg",
+    "static/media/picana.jpg": "/mywebalessandro/static/media/picana.dde4bf2916ce83c00e17.jpg",
+    "static/media/his10.jpeg": "/mywebalessandro/static/media/his10.acdfb61d9ebf69745111.jpeg",
+    "static/media/his6.jpeg": "/mywebalessandro/static/media/his6.e55ea7c7419d04be6217.jpeg",
+    "static/media/arbol2.jpg": "/mywebalessandro/static/media/arbol2.469877b5ec499e664ad7.jpg",
+    "static/media/arbol1.jpg": "/mywebalessandro/static/media/arbol1.ac6aa27934cbecbd33af.jpg",
+    "static/media/his5.jpg": "/mywebalessandro/static/media/his5.a95db3928919e01bec3d.jpg",
+    "static/media/arbol3.jpg": "/mywebalessandro/static/media/arbol3.a80a0a88d24311ac4e7e.jpg",
+    "static/media/bunuelo.jpg": "/mywebalessandro/static/media/bunuelo.2793c79bdfc9d963a420.jpg",
+    "static/media/logo.png": "/mywebalessandro/static/media/logo.1c785d0038527c424927.png",
+    "static/media/his1.jpg": "/mywebalessandro/static/media/his1.b3aaf6213fa8a4453ae4.jpg",
+    "static/media/his4.jpg": "/mywebalessandro/static/media/his4.211efe7a3fb68c0577fd.jpg",
+    "static/media/lechon.jpg": "/mywebalessandro/static/media/lechon.6383fce32d00ad20b96e.jpg",
+    "index.html": "/mywebalessandro/index.html",
+    "main.7280045e.css.map": "/mywebalessandro/static/css/main.7280045e.css.map",
+    "main.e948c559.js.map": "/mywebalessandro/static/js/main.e948c559.js.map",
+    "787.985e081d.chunk.js.map": "/mywebalessandro/static/js/787.985e081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7280045e.css",
+    "static/js/main.e948c559.js"
+  ]
+}
